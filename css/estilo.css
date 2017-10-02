@@ -1,0 +1,26 @@
+body{
+	background-image:url(../imagens/fundo.jpg);
+	background-size:cover;
+}
+
+.btn-cadastro{
+	height: 50px;
+	margin-top: 20px;
+	background-color: rgb(165, 113, 249);
+}
+.btn-cadastro:hover{
+	background-color: rgb(75, 23, 158);
+	color: white;
+}
+.form-centralizado{
+	background-color: rgba(28,98,7,.7);
+	width: 300px;
+	padding: 15px;
+	margin: 100px auto 0 auto;
+	border-radius: 25px;
+	box-shadow: 0 0 20px 10px rgb(56, 62, 55);
+}
+
+.meu-label{
+	color: white;
+}
